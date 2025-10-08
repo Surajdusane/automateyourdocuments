@@ -1,0 +1,9 @@
+.vscode
+.next
+.turbo
+package-lock.json
+pnpm-lock.yaml
+components.json
+pnpm-workspace.yaml
+.eslintrc.js
+node_modules
